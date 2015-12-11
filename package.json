@@ -1,0 +1,30 @@
+{
+  "name": "string-shuffle",
+  "description": "Randomly shuffles a string",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jsfi/string-shuffle#readme",
+  "author": {
+    "name": "Martin Sachse",
+    "email": "martin.sachse@gmail.com",
+    "url": "http://jsfi.io"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/eslint/bin/eslint.js **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsfi/string-shuffle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsfi/string-shuffle/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}
